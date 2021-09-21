@@ -3,7 +3,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . T
 
 I got to have hands on experience on:
 
-1. HTML
+1.HTML
 
 2.JavaScript
 
