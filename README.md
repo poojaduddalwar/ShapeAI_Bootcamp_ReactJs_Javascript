@@ -4,6 +4,9 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . T
 I got to have hands on experience on:
 
 1. HTML
+
 2.JavaScript
+
 3.React.js
+
 during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn. I enjoyed these 7 days.
